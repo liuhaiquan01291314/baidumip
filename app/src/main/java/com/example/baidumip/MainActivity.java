@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
     private MapView mBmapView;
     private BaiduMap map;
     private LocationClient mLocationClient;
-    private  String a="";
+    private  String  b="";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
